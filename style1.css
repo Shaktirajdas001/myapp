@@ -1,0 +1,70 @@
+
+
+.head
+{
+	width: 1600px;
+	height: 80px;
+	background-color: gray;
+	
+}
+.a1
+{
+	 
+   background-image:url('bput.jpg');
+   min-width: 29px;
+   min-height: 165px;
+   width: 15%;
+	background-color: gray;
+	float: left;
+	background-repeat: repeat-y;
+}
+.a2
+{
+	 width: 85%;
+   line-height: 130px;
+	background-color: gray;
+	float: right;
+}
+h1
+{
+	text-align: center;
+}
+.row
+{
+	width: 600px;
+	height:300px;
+	background-color: gray;
+	margin-top: 50px;
+	margin-left: 40px
+}
+/*.loginbox form input[input="text"],.loginbox form input[input="password"]
+{
+	background: transparent;
+	margin-bottom: 2px;
+	border-bottom: 2px solid white;
+
+}*/
+.loginbox
+{
+	text-align: center;
+}
+.col
+{
+	width: 310px;
+	height: 370px;
+	margin-top: 20px;
+	background-color:seashell;
+}
+
+h5{
+	text-align: center;
+	background-color: gray;
+}
+p
+{
+color: red;
+}
+table
+{
+	border-collapse: collapse;
+}
